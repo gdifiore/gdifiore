@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi!
+
+## My name is Gabriel DiFiore
+I'm currently a high schooler interested in programming and security.
+
+## What I'm Learning
+I'm working on learning the rust programming language due to it's appealing performance and reliability (which stem from it's amazing memory safety)
 
 <!--
 **gdifiore/gdifiore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
