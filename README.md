@@ -1,7 +1,7 @@
 # Hi!
 
 ## My name is Gabriel DiFiore
-I'm currently a high school student interested in programming and security.
+I'm currently a college student interested in programming and security.
 
 Check out my pinned repositories for my projects I'm most proud of and stay tuned for more projects in the future!
 
